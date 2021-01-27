@@ -1,0 +1,17 @@
+Steps to open the website on your phone: 
+1. Make sure that you on the same network.
+2. `ctrl` + `shift` + `~` to open the terminal.
+3. type `ipconfig` and hit enter.
+4. copry `IPv4 Address` it will be something like that `192.168.43.109`.
+5. go to browser, Replace `127.0.0.1` with IP that we got from above steps.
+
+
+Look for:
+- css flexbox cssTricks
+
+
+Next meet we're gonna do:
+- Start using Github, and what's Git?
+- Rebuild the app together
+- VSC helpful extensions
+- Chrome extensions 
